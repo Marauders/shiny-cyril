@@ -6,7 +6,7 @@ package com.example.android.sunshine.app;
 
 
 import android.content.SharedPreferences;
-import android.os.Bundle;
+import android.os.Bundle; 
 import android.preference.ListPreference;
 import android.preference.Preference;
 import android.preference.PreferenceActivity;
